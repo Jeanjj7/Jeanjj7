@@ -29,15 +29,22 @@ Meu nome é Jean Carlos dos Santos Junior, tenho 20 anos e sou apaixonado por te
     alt="GitHub Stats" 
     height="200" 
     style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=Jeanjj7&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
+    src="https://github-readme-stats.vercel.app/api?username=Jeanjj7&show_icons=true&bg_color=000000&text_color=FFFF00&icon_color=FF0000&title_color=FF0000&include_all_commits=true&locale=pt-br" 
   />
 
-<img 
+  <img 
       align="left" 
       alt="GitHub Stats" 
       height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jeanjj7&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jeanjj7&bg_color=000000&text_color=FFFF00&title_color=FF0000&layout=compact&custom_title=Tecnologias&langs_count=9" 
   />
-
 </p>
+
+<p align="center">
+  <img src="https://www.fabiosilvalima.net/wp-content/uploads/2017/04/fabiosilvalima-macaco.gif" height="200" alt="Macaco GIF" />
+  <img src="https://media.tenor.com/eQJns8923ioAAAAM/hacker-pc.gif" height="200" alt="Hacker GIF" />
+  <img src="https://gifdb.com/images/high/anime-sanji-smoking-one-piece-7l4py4w58pz588z5.gif" height="200" alt="Sanji GIF" />
+</p>
+
+
 
