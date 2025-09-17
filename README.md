@@ -38,13 +38,12 @@ Meu nome é Jean Carlos dos Santos Junior, tenho 20 anos e sou apaixonado por te
       height="200" 
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jeanjj7&bg_color=000000&text_color=FFFF00&title_color=FF0000&layout=compact&custom_title=Tecnologias&langs_count=9" 
   />
-</p><br>
-
-
-<p align="center">
-  ---
-  <img src="https://gifdb.com/images/high/anime-sanji-smoking-one-piece-7l4py4w58pz588z5.gif" height="150" alt="Sanji GIF" /><br>
 </p>
 
+<div> <br>
+<p align="center">
+  <img src="https://gifdb.com/images/high/anime-sanji-smoking-one-piece-7l4py4w58pz588z5.gif" height="150" alt="Sanji GIF" /><br>
+</p>
+</div>
 
 
