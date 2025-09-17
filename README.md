@@ -40,10 +40,9 @@ Meu nome é Jean Carlos dos Santos Junior, tenho 20 anos e sou apaixonado por te
   />
 </p><br>
 
----
-<p align="center"><br>
-  <img src="https://www.fabiosilvalima.net/wp-content/uploads/2017/04/fabiosilvalima-macaco.gif" height="150" alt="Macaco GIF" /><br>
-  <img src="https://media.tenor.com/eQJns8923ioAAAAM/hacker-pc.gif" height="150" alt="Hacker GIF" /><br>
+
+<p align="center">
+  ---
   <img src="https://gifdb.com/images/high/anime-sanji-smoking-one-piece-7l4py4w58pz588z5.gif" height="150" alt="Sanji GIF" /><br>
 </p>
 
